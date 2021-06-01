@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "fullname" : "Le Dinh Huy",
+        "Tell" : 30374544226 , 
+        "Rights" : 1
+    },
+    {
+        "id":2,
+        "fullname" : "Le Dinh Hau",
+        "Tell" : 30374544226 , 
+        "Rights" : 2
+    },
+    {
+        "id":3,
+        "fullname" : "Le Dinh",
+        "Tell" : 30374544226 , 
+        "Rights" : 3
+    },
+    {
+        "id":4,
+        "fullname" : "Mic trom",
+        "Tell" : 30374544226 , 
+        "Rights" : 4
+    },
+    {
+        "id":5,
+        "fullname" : "Laydy kaka",
+        "Tell" : 30374544226 , 
+        "Rights" : 2
+    },
+    {
+        "id":6,
+        "fullname" : "Doctor cut",
+        "Tell" : 30374544226 , 
+        "Rights" : 3
+    },
+    {
+        "id":7,
+        "fullname" : "Teacher ngu",
+        "Tell" : 30374544226 , 
+        "Rights" : 2
+    },
+    {
+        "id":8,
+        "fullname" : "Leader Huy",
+        "Tell" : 30374544226 , 
+        "Rights" : 4
+    }
+]
